@@ -1,0 +1,14 @@
+Two Phton_VNS
+Start: (115, 1110)
+Stop: (230, 1110)
+Stop execution: (120, 242)
+Exit: (740, 1110) <-- exit button is grayed out before Stop button is clicked.
+the height of Start/Stop button is 36 pixels, let detPos = (0, -30) for Start/Stop button and detPos = (0, 30) for Stop execution button, click the blank space above the Start/Stop button to bring the 'MAIN VI' to the top.
+
+Auditory Research
+Start: (525, 1065)
+Stop: (650, 1065)
+
+2P Matlab
+GRAB/ABORT:(130, 305)
+a blank space at the right side of 'MAIN CONTROLS': (130, 15), or detPos = (0, -290), click there to bring the 'MAIN CONTROLS' window to the top.
